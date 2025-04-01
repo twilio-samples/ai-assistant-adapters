@@ -163,7 +163,7 @@ twilio serverless:deploy
 #### Twilio Flex Handover
 
 1. Navigate to **Twilio Console > TaskRouter > Workspaces** to obtain both `workspaceSid` (i.e. `WSxxxxx`) and `workflowSid` (`WWxxxx`). `workflowSid` can be retrieved after clicking into the default workspace named `Flex Task Assignment` and then `Workflows`.
-2. Once done, navigate to **Twilio Console > AI Asssitant > My Assistants**
+2. Once done, navigate to **Twilio Console > AI Assistant > My Assistants**
 3. Select your **DESIRED AI ASSISTANT**
 4. Go to **Tools\* and click **Add Tool\* button
    - Name: `Twilio Flex Handover`
