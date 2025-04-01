@@ -1,0 +1,110 @@
+{
+    "default": {
+        "friendlyName": "Default (en-US)",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "en-US",
+        "ttsLanguage": "en-US",
+        "ttsProvider": "Google",
+        "voice": "en-US-Chirp3-HD-Aoede",
+        "welcomeGreeting": "Hello ! I'm an AI Assistant. How can i help you?"
+    },
+    "en-US": {
+        "friendlyName": "English (US)",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "en-US",
+        "ttsLanguage": "en-US",
+        "ttsProvider": "Elevenlabs",
+        "voice": "i4CzbCVWoqvD0P1QJCUL",
+        "welcomeGreeting": "Hello ! I'm an AI Assistant. How can i help you?"
+    },
+    "en-AU": {
+        "friendlyName": "English (AU)",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "en-AU",
+        "ttsLanguage": "en-AU",
+        "ttsProvider": "Elevenlabs",
+        "voice": "nBoLwpO4PAjQaQwVKPI1",
+        "welcomeGreeting": "Hello ! I'm an AI Assistant. How can i help you?"
+    },
+    "es-ES": {
+        "friendlyName": "Spanish",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "es-ES",
+        "ttsLanguage": "es-ES",
+        "ttsProvider": "Elevenlabs",
+        "voice": "57D8YIbQSuE3REDPO6Vm",
+        "welcomeGreeting": "¡Hola! Soy asistente de IA. ¿Cómo puedo ayudarte?"
+    },
+    "hi-IN": {
+        "friendlyName": "Hindi",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "hi-IN",
+        "ttsLanguage": "hi-IN",
+        "ttsProvider": "Elevenlabs",
+        "voice": "8FsOrsZSELg9otqX9nPu",
+        "welcomeGreeting": "नमस्ते! मैं एक AI सहायक हूँ। मैं आपकी कैसे मदद कर सकता हूँ?"
+    },
+    "ja-JP": {
+        "friendlyName": "Japanese",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "ja-JP",
+        "ttsLanguage": "ja-JP",
+        "ttsProvider": "Elevenlabs",
+        "voice": "Mv8AjrYZCBkdsmDHNwcB",
+        "welcomeGreeting": "こんにちは！私は AI アシスタントです。何かお手伝いしましょうか？"
+    },
+    "ko-KR": {
+        "friendlyName": "Korean",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "ko-KR",
+        "ttsLanguage": "ko-KR",
+        "ttsProvider": "Elevenlabs",
+        "voice": "H8ObVvroE5JXeeUSJakg",
+        "welcomeGreeting": "안녕하세요! 저는 AI 어시스턴트입니다. 어떻게 도와드릴까요?"
+    },
+    "pt-BR": {
+        "friendlyName": "Portguese (BR)",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "pt-BR",
+        "ttsLanguage": "pt-BR",
+        "ttsProvider": "Elevenlabs",
+        "voice": "Eyspt3SYhZzXd1Jd3J8O",
+        "welcomeGreeting": "Olá ! Sou um assistente de IA. Como posso ajudá-lo?"
+    },
+    "th-TH": {
+        "friendlyName": "Thai",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "th-TH",
+        "ttsLanguage": "th-TH",
+        "ttsProvider": "Google",
+        "voice": "th-TH-Chirp3-HD-Aoede",
+        "welcomeGreeting": "สวัสดี ฉันเป็นผู้ช่วย AI ฉันสามารถช่วยคุณได้อย่างไร?"
+    },
+    "vi-VN": {
+        "friendlyName": "Vietnamese",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "vi-VN",
+        "ttsLanguage": "vi-VN",
+        "ttsProvider": "Elevenlabs",
+        "voice": "mJLZ5p8I7Pk81BHpKwbx",
+        "welcomeGreeting": "Xin chào! Tôi là Trợ lý AI. Tôi có thể giúp gì cho bạn?"
+    },
+    "zh-CN": {
+        "friendlyName": "Chinese (Simplified)",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "zh-CN",
+        "ttsLanguage": "zh-CN",
+        "ttsProvider": "Elevenlabs",
+        "voice": "4VZIsMPtgggwNg7OXbPY",
+        "welcomeGreeting": "你好！我是 AI 助理。我能为您做些什么"
+    },
+    "zh-HK": {
+        "friendlyName": "Chinese (Cantonese)",
+        "transcriptionProvider": "deepgram",
+        "transcriptionLanguage": "zh-HK",
+        "ttsLanguage": "yue-HK",
+        "ttsProvider": "Google",
+        "voice": "yue-HK-Standard-D",
+        "welcomeGreeting": "你好！我係人工智能助理。"
+    }
+}
