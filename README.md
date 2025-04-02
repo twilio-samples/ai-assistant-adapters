@@ -44,9 +44,6 @@ Example: `https://twilio-aia-adapters-XXXX-dev.twil.io/voice/incoming?aiAssistan
 
 Language configurations can be easily added or modified by updating the `assets/voice-languages-config.private.json` file.
 
-> [!IMPORTANT]
-> The preset language configurations primarily use ElevenLabs voices, which are currently in private beta. To enable access, you will need to request it through Twilio Support. Alternatively, you can use the [Google's Generative Voices](https://www.twilio.com/docs/voice/twiml/say/text-speech#available-voices-and-languages).
-
 ### 2. Ready-to-Use Webhook: `/conversations/messageAdded`
 
 | Query Parameter(s)    | Required | Default Value  | Description                                                                                                                |
